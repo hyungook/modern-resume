@@ -57,7 +57,7 @@ about_content: | # this will include new lines to allow paragraphs
   목적한 성취를 이루며 공정성 있는 자세로 동료들과 협력하며 동료/선배님들을 실망시키지 않는 책임감 있는 모습 보여드리고 싶습니다.
 
 content:
-  - title: Growth # Title for the section
+  - title: Growth Process # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -74,7 +74,8 @@ content:
           제 인생에 멘토이신 부모님께서는 `범사에 감사하고 겸손하라. 사람은 신뢰를 줄 수 있어야 한다.` 고 늘 말씀해주셨습니다. 그래서 저는 그 말씀을 마음 깊이 새겨 그렇게 살기 위해 노력하고 있습니다.
           부모님께서는 제가 남에게 믿음을 줄 수 있는 사람이 될 수 있도록 항상 저를 먼저 믿어주시고 묵묵히 지켜주시며 힘이 되어주셨습니다. 덕분에 저는 어떤 일을 하든지 매사에 자신감을 가지고 임할 수 있게 되었습니다.
 
-  - layout: top-middle
+  - title: Growth Process_2 # Title for the section
+    layout: top-middle
         title: Growth Process_2
         # link_text: Project Website
         additional_links:
@@ -87,8 +88,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           “성실함은 곧 경쟁력이다.” 어릴 적부터 아버지께서 항상 하신 말씀입니다. 저는 초등학교 때부터 개근상은 물론이고, 중학교 때 교실에 반에 열쇠를 담당할 정도로 성실함 하나는 자신 있게 얘기할 수 있습니다. 자연스럽게 성인이 되어서도 항상 수업시간 20분 전, 과제제출은 정해진 시간보다 사전에 했습니다. 이러한 성격으로 학과 내에서 최고의 성적도 받았고, 교수님들과 친구들 사이에 깊은 신뢰를 얻게 되었습니다. 이러한 경험이 회사에 이 바지하는 것에 크게 도움이 될 것입니다.
 
-
-  - layout: top-middle
+  - title: Character and pros and cons # Title for the section
+    layout: top-middle
         title: Character and pros and cons
         # link_text: Project Website
         additional_links:
@@ -100,9 +101,10 @@ content:
           인사성이 밝습니다 :)
         description: | # this will include new lines to allow paragraphs
           “성실함은 곧 경쟁력이다.” 어릴 적부터 아버지께서 항상 하신 말씀입니다. 저는 초등학교 때부터 개근상은 물론이고, 중학교 때 교실에 반에 열쇠를 담당할 정도로 성실함 하나는 자신 있게 얘기할 수 있습니다. 자연스럽게 성인이 되어서도 항상 수업시간 20분 전, 과제제출은 정해진 시간보다 사전에 했습니다. 이러한 성격으로 학과 내에서 최고의 성적도 받았고, 교수님들과 친구들 사이에 깊은 신뢰를 얻게 되었습니다. 이러한 경험이 회사에 이 바지하는 것에 크게 도움이 될 것입니다.
+  
 
-
- - layout: top-middle
+  - title: Career_1 # Title for the section
+    layout: top-middle
         title: Career_1
         # link_text: Project Website
         additional_links:
@@ -118,8 +120,8 @@ content:
           군대는 포기하고 싶다고 포기하고, 그만두고 싶다고 해서 그만 둘 수 있는 집단이 아니라 생각합니다. 자신의 맡은 임무는 어떻게 해서든 해결하고 책임을 져야하는 곳 입니다. 저는‘나’혼자서는 해결할 수 없는 일들이 많다는 것을 알고 있습니다. 간혹 혼자서는 해결할 수 없는 업무가 주워졌을 때에는 동료에게 도움을 요청하였고, 저와 동료는 서로‘협력’ 하여 문제를 해결해 맡은 임무를 잘 해결하였으며 간부들과 병사들에게 인정받는 병사가 되었습니다.
           어려움이 닥쳤을 때 포기하지 않고 끝까지 해결하기 위해 노력할 수 있었던 것은 나에게 주어진 업무에 대한 책임감과 혼자서는 할 수 없는 일도 동료와 함께‘협력’한다면 충분히 해결할 수 있다는 믿음 때문이었습니다.
 
-
-- layout: top-middle
+  - title: Career_2 # Title for the section
+    layout: top-middle
         title: Career_2
         # link_text: Project Website
         additional_links:
@@ -141,7 +143,7 @@ content:
           하지만, 10년 뒤의 제 모습을 그려보니 그 삶은 제가 원하고 꿈꾸던 모습이 아니라 판단하였습니다.
           더 늦기 전에 다시 개발자에 대한 꿈을 키우기 위해 주말과 퇴근 후의 시간을 모두 투자하며 <mark>프론트엔드 개발자</mark>를 준비하고 있습니다.
 
-- title: Experience # Title for the section
+  - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -154,7 +156,7 @@ content:
           이랜드그룹 인하우스 팀 내에서 이랜드 그룹의 전반적인 콘텐츠 디자인(그래픽, 편집, 로고 등) 업무를 하였습니다.
           사내 홈페이지, 그룹 공식 블로그, 공식 SNS 콘텐츠 디자인과 공식 유튜브 로고 및 기타 그래픽을 제작했습니다.
 
-- title: Skill # Title for the section
+  - title: Skill # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -184,11 +186,6 @@ content:
           * Photoshop
           * Adobe XD
           * Illustrator
-
-
-
-
-
 
 
 # Footer
