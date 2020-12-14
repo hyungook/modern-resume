@@ -12,7 +12,7 @@ email: nenonenoberneno@gmail.com
 website: https://hyungook.github.io/hyungooks-story/
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 # twitter_username: facespics
@@ -48,13 +48,12 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  안녕하세요, |
-  신입 프론트엔드 개발자 오형욱입니다.|
-  지금까지 습득해온 개발/디자인 등의 다양한 능력을 저만의 이야기로 멈추지 않고,|
+  안녕하세요,
+  신입 프론트엔드 개발자 오형욱입니다.
+  지금까지 습득해온 개발/디자인 등의 다양한 능력을 저만의 이야기로 멈추지 않고,
   프로젝트를 통해 대중과 소통하고 교류할 수 있는 <mark>프론트 개발자</mark>가 되고 싶습니다.
-  |
-  |
-  저의 CLIFTON STRENGTHSFINDER 강점 조사 상위 5가지는 '책임/성취/공정성/긍정/절친'입니다.|
+
+  저의 CLIFTON STRENGTHSFINDER 강점 조사 상위 5가지는 '책임/성취/공정성/긍정/절친'입니다.
   목적한 성취를 이루며 공정성 있는 자세로 동료들과 협력하며 동료/선배님들을 실망시키지 않는 책임감 있는 모습 보여드리고 싶습니다.
 content:
 
