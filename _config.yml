@@ -56,7 +56,7 @@ about_content: | # this will include new lines to allow paragraphs
   목적한 성취를 이루며 공정성 있는 자세로 동료들과 협력하며 동료/선배님들을 실망시키지 않는 책임감 있는 모습 보여드리고 싶습니다.
 
 content:
-  - title: Growth Process # Title for the section
+  - title: Growth Process_1 # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -67,6 +67,10 @@ content:
         description: | # this will include new lines to allow paragraphs
           제 인생에 멘토이신 부모님께서는 `범사에 감사하고 겸손하라. 사람은 신뢰를 줄 수 있어야 한다.` 고 늘 말씀해주셨습니다. 그래서 저는 그 말씀을 마음 깊이 새겨 그렇게 살기 위해 노력하고 있습니다.
           부모님께서는 제가 남에게 믿음을 줄 수 있는 사람이 될 수 있도록 항상 저를 먼저 믿어주시고 묵묵히 지켜주시며 힘이 되어주셨습니다. 덕분에 저는 어떤 일을 하든지 매사에 자신감을 가지고 임할 수 있게 되었습니다.
+
+  - title: Growth Process_2 # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
       - layout: top-middle
         title: Growth Process_2
         # link_text: Project Website
