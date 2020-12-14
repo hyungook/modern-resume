@@ -48,41 +48,14 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  안녕하세요,
-  신입 프론트엔드 개발자 오형욱입니다.
-  지금까지 습득해온 개발/디자인 등의 다양한 능력을 저만의 이야기로 멈추지 않고,
-  프로젝트를 통해 대중과 소통하고 교류할 수 있는 <mark>프론트 개발자</mark>가 되고 싶습니다.
-
-  저의 CLIFTON STRENGTHSFINDER 강점 조사 상위 5가지는 '책임/성취/공정성/긍정/절친'입니다.
+  안녕하세요, >
+  신입 프론트엔드 개발자 오형욱입니다.>
+  지금까지 습득해온 개발/디자인 등의 다양한 능력을 저만의 이야기로 멈추지 않고,>
+  프로젝트를 통해 대중과 소통하고 교류할 수 있는 <mark>프론트 개발자</mark>가 되고 싶습니다.>
+  >
+  저의 CLIFTON STRENGTHSFINDER 강점 조사 상위 5가지는 '책임/성취/공정성/긍정/절친'입니다.>
   목적한 성취를 이루며 공정성 있는 자세로 동료들과 협력하며 동료/선배님들을 실망시키지 않는 책임감 있는 모습 보여드리고 싶습니다.
 content:
-  - title: Skill # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        name: Front-end
-        description: | # this will include new lines to allow paragraphs
-          * Javascript
-          * HTML5
-          * CSS3
-      - layout: left
-        name: Library
-        description: | # this will include new lines to allow paragraphs
-          * React JS
-          * React Native
-          * Typescript
-          * Jquery
-      - layout: left
-        name: Back-end
-        description: | # this will include new lines to allow paragraphs
-          * Node JS
-      - layout: left
-        name: Design
-        description: | # this will include new lines to allow paragraphs
-          * Photoshop
-          * Adobe XD
-          * Illustrator
-
   - title: Growth # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -114,6 +87,37 @@ content:
         description: | # this will include new lines to allow paragraphs
           이랜드그룹 인하우스 팀 내에서 이랜드 그룹의 전반적인 콘텐츠 디자인(그래픽, 편집, 로고 등) 업무를 하였습니다.
           사내 홈페이지, 그룹 공식 블로그, 공식 SNS 콘텐츠 디자인과 공식 유튜브 로고 및 기타 그래픽을 제작했습니다.
+
+  - title: Skill # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        name: Front-end
+        title: Front-end
+        description: | # this will include new lines to allow paragraphs
+          * Javascript
+          * HTML5
+          * CSS3
+      - layout: left
+        name: Library
+        title: Library
+        description: | # this will include new lines to allow paragraphs
+          * React JS
+          * React Native
+          * Typescript
+          * Jquery
+      - layout: left
+        name: Back-end
+        title: Back-end
+        description: | # this will include new lines to allow paragraphs
+          * Node JS
+      - layout: left
+        name: Design
+        title: Design
+        description: | # this will include new lines to allow paragraphs
+          * Photoshop
+          * Adobe XD
+          * Illustrator
 
 # Footer
 footer_show_references: true
