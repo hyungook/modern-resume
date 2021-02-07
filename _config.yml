@@ -9,10 +9,10 @@ version: 2
 name: Hyungook OH
 title: Frontend developer
 email: nenonenoberneno@gmail.com
-website: https://hyungook.github.io/hyungooks-story/
+website: https://hyungook.github.io/ooks-story/
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 github_username: hyungook
@@ -32,7 +32,7 @@ instagram_username: hyungookoh
 additional_links:
   - title: itsgoingto.be
     icon: fas fa-globe
-    url: https://www.itsgoingto.be
+    url: https://velog.io/@nenonenoberneno
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -49,10 +49,15 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   안녕하세요,
   신입 프론트엔드 개발자 오형욱입니다.
+>
+  프론트엔드 개발자로서 아직 배울 것이 많고, 배우고 싶은 것들도 많습니다. 스스로 부족함을 느끼기 때문에 꾸준히 학습하고 어제보다는 오늘 더 발전하려 노력하게 되는 것 같습니다.
+>
   지금까지 습득해온 개발/디자인 등의 다양한 능력을 저만의 이야기로 멈추지 않고,
+>
   프로젝트를 통해 대중과 소통하고 교류할 수 있는 <mark>프론트 개발자</mark>가 되고 싶습니다.
-
+>
   저의 CLIFTON STRENGTHSFINDER 강점 조사 상위 5가지는 '책임/성취/공정성/긍정/절친'입니다.
+>
   목적한 성취를 이루며 공정성 있는 자세로 동료들과 협력하며 동료/선배님들을 실망시키지 않는 책임감 있는 모습 보여드리고 싶습니다.
 
 content:
@@ -60,33 +65,33 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: 겸손한 자세를 유지합니다.
+        title: 성실함은 곧 경쟁력이다.
         # link_text: Project Website
         quote: >
 
         description: | # this will include new lines to allow paragraphs
-          제 인생에 멘토이신 부모님께서는 <mark>범사에 감사하고 겸손하라. 사람은 신뢰를 줄 수 있어야 한다.</mark> 고 늘 말씀해주셨습니다. 그래서 저는 그 말씀을 마음 깊이 새겨 그렇게 살기 위해 노력하고 있습니다.
-          부모님께서는 제가 남에게 믿음을 줄 수 있는 사람이 될 수 있도록 항상 저를 먼저 믿어주시고 묵묵히 지켜주시며 힘이 되어주셨습니다. 덕분에 저는 어떤 일을 하든지 매사에 자신감을 가지고 임할 수 있게 되었습니다.
+          <mark>“성실함은 가장 중요한 기본 됨됨이 중 하나이다.”</mark> 어릴 적부터 아버지께서 항상 하신 말씀입니다.
+>
+          저는 초등학교 때부터 개근상은 물론이고, 중, 고등학교 때 교실 반 열쇠를 담당할 정도로 지켜진 약속을 지키고 꾸준함 <mark>성실함</mark> 하나는 자신 있다.라고 얘기할 수 있습니다.
+>
+          어린 시절부터 이어진 습관은 성인 된 지금의 저에겐 가장 큰 장점 중 하나가 되었습니다.
+>
+          개발자라는 직업을 또래보다 2-3년 조금 늦게 시작했지만, '끝까지 가면 다 이긴다'라는 말이 있듯이, 몇 년 후에는 앞서가는 개발자가 되어 있을 것이라 자신 있게 얘기할 수 있습니다.
 
   - title: Growth Process_2 # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: 성실함은 곧 경쟁력이다.
+        title: 겸손한 자세를 유지합니다.
         # link_text: Project Website
         quote: >
         description: | # this will include new lines to allow paragraphs
-          <mark>“성실함은 곧 경쟁력이다.”</mark> 어릴 적부터 아버지께서 항상 하신 말씀입니다. 저는 초등학교 때부터 개근상은 물론이고, 중학교 때 교실에 반에 열쇠를 담당할 정도로 성실함 하나는 자신 있게 얘기할 수 있습니다. 자연스럽게 성인이 되어서도 항상 수업 시간 20분 전, 과제 제출은 정해진 시간보다 사전에 했습니다. 이러한 성격으로 회사 생활 중에도 단 한 번의 지각도 없이 성실히 직장 생활을 하였으며, 저한테는 믿고 업무를 맡길 수 있는 업무 일정에 대한 문제는 단 한 번도 일으키지 않았고 그로 인해 직장 동료들과 선배들에게 신뢰를 얻게 되었습니다. 이러한 경험이 회사에 이바지하는 것에 크게 도움이 될 것입니다.
-
-  - title: Haracter and Pros and Cons # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: 자석 같은 사람
-        # link_text: Project Website
-        quote: >
-        description: | # this will include new lines to allow paragraphs
-          저는 인사성 밝고 친화력이 좋습니다. 어릴 적, 하루에도 몇 번씩, 만날 때마다 꼬박꼬박 인사를 잘한다고 동네 어르신들께서 기억하실 정도로 인사성이 밝습니다. 그래서인지 남녀노소 불문하고 쉽게 친해집니다. 법인 대표님과 팀장님이 따로 언급을 하실 정도로 밝게 인사한다는 얘기를 들을 정도였습니다.. 맞벌이하시는 부모님 덕에 외가댁 식구들과 함께 살았기에 이런 성격이 되었는지도 모르겠습니다. 윗사람을 공경할 줄 알고 아랫사람을 섬길 줄 아는, 또한 많은 사람과 어울릴 줄 아는 그런 장점을 갖고 있습니다.
+          제 인생에 멘토이신 부모님께서는 <mark>범사에 감사하며 겸손해라.</mark>라고 늘 말씀해 주셨습니다.
+>
+          어렸을 때부터 듣고 자란 말이라 그런지 그 말씀을 마음 깊이 새겨 그렇게 살기 위해 노력하고 있습니다.
+          아무리 힘들고 어려운 상황일지라도 분명 감사할 일들이 있었던 것 같습니다. 좋지 않은 상황 가운데서도 분명 배울 점을 찾을 수 있었고, 어려운 문제를 해결함으로 조금 더 발전하고 성장할 수 있는 계기가 될 수도 있었습니다.
+>
+          어떤 상황에서도 늘 감사하며, 겸손한 자세로 배울 점을 찾습니다.
 
   - title: Career_1 # Title for the section
     layout: list # Type of content section (list/text)
@@ -96,36 +101,50 @@ content:
         # link_text: Project Website
         quote: >
         description: | # this will include new lines to allow paragraphs
-          저는 강원도 양구 해발 1,220m의 산 정상에 위치한 21사단 GOP 부대에서 <mark>대대 인사계원</mark>으로 군 복무를 했습니다. 대대 인사계원이라고 하면 흔히들 행정병이라고 생각하지만, 주간에는 대대 인사계원으로서의 업무를 수행하였고 야간에는 부대 인원 부족으로 인해 GOP 축선 경계근무 지원을 다녀왔으며, 그리고 GOP 철수 후 FEBA 부대에서는 유격훈련과 혹한기 훈련, 위병소 근무까지. GOP 부대 복무 군인으로서 경험할 수 있는 모든 경험을 했습니다.
-          본래의 직책인 대대 인사계원의 업무는 부대의 모든 병사의 신상정보 관리와 간부, 병사의 휴가 그리고 근무 수당 상신, 부대 행사 계획 등을 총괄/관리하는 업무를 하는 것입니다. 책임과 부담감을 갖는 업무이기에 대대 인사계원의 업무에만 집중을 해도 하루가 부족하지만 부대의 사정상 그렇지는 못 하였습니다.
-          군대는 포기하고 싶다고 포기하고, 그만두고 싶다고 해서 그만 둘 수 있는 집단이 아니라 생각합니다. 자신의 맡은 임무는 어떻게 해서든 해결하고 책임을 져야하는 곳 입니다. 저는‘나’혼자서는 해결할 수 없는 일들이 많다는 것을 알고 있습니다. 간혹 혼자서는 해결할 수 없는 업무가 주워졌을 때에는 동료에게 도움을 요청하였고, 저와 동료는 서로‘협력’ 하여 문제를 해결해 맡은 임무를 잘 해결하였으며 간부들과 병사들에게 인정받는 병사가 되었습니다.
+          저는 강원도 양구 해발 1,220m의 산 정상에 위치한 21사단 GOP 부대에서 <mark>대대 인사계원</mark>으로 군 복무를 했습니다. 
+>
+          대대 인사계원이라고 하면 흔히들 행정병이라고 생각하지만, 주간에는 대대 인사계원으로서의 업무를 수행하였고 야간에는 부대 인원 부족으로 인해 GOP 축선 경계근무 지원을 다녀왔으며, 그리고 GOP 철수 후 FEBA 부대에서는 유격훈련과 혹한기 훈련, 위병소 근무까지. GOP 부대 복무 군인으로서 경험할 수 있는 모든 경험을 했습니다.
+>
+          본래의 직책인 대대 인사계원의 업무는 부대의 모든 병사의 신상정보 관리와 간부, 병사의 휴가 그리고 근무 수당 상신, 부대 행사 계획 등을 총괄/관리하는 업무를 하는 것입니다. 
+>
+          책임과 부담감을 갖는 업무이기에 대대 인사계원의 업무에만 집중을 해도 하루가 부족하지만 부대의 사정상 그렇지는 못 하였습니다.
+          군대는 포기하고 싶다고 포기하고, 그만두고 싶다고 해서 그만 둘 수 있는 집단이 아니라 생각합니다. 자신의 맡은 임무는 어떻게 해서든 해결하고 책임을 져야하는 곳 입니다. 
+>
+          저는‘나’혼자서는 해결할 수 없는 일들이 많다는 것을 알고 있습니다. 간혹 혼자서는 해결할 수 없는 업무가 주워졌을 때에는 동료에게 도움을 요청하였고, 저와 동료는 서로‘협력’ 하여 문제를 해결해 맡은 임무를 잘 해결하였으며 간부들과 병사들에게 인정받는 병사가 되었습니다.
+>
           어려움이 닥쳤을 때 포기하지 않고 끝까지 해결하기 위해 노력할 수 있었던 것은 나에게 주어진 업무에 대한 책임감과 혼자서는 할 수 없는 일도 동료와 함께‘협력’한다면 충분히 해결할 수 있다는 믿음 때문이었습니다.
 
   - title: Career_2 # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: 취업
+        title: Developer
         # link_text: Project Website
         quote: >
         description: | # this will include new lines to allow paragraphs
-          대학 재할시절 저의 꿈은 웹 퍼플리셔였습니다.
-          4학년 졸업작품을 반응형 웹 제작으로 진행하면서 그 꿈을 키워갔었습니다.
-          강남 sbs 아카데미에서 반응형 웹 6개월 과정 수업을 통해 배운 html, css, jquery를 활용하여 반응형 웹을 제작하였는데,
-          내가 원하고 생각한 대로 구현할 수 있는 웹 코딩이에 큰 재미와 흥미를 느끼며, 힘든 줄 모르고 열심히 반응형 웹 디자인에 몰입했었습니다.
-          그 덕분에 그 해 1,2학기 올 A+ 4.5 만점이라는 좋은 결실를 맺을 수 있었고, 재미와 흥미를 느낀 후에 좋은 결과까지 얻어 코딩에 대한 재미는 점점 더 커지고 있었습니다. 
-          웹 퍼블리셔를 꿈꾸며  코딩 공부를 하던 중에 어떤 계기로 안정적이며 괜찮은 복지의 회사에 입사할 수 있는 기회가 생겨 웹 개발과는 별개의 생활을 하게 되었습니다.
-          취업 후 이랜드 그룹의 전반적인 콘텐츠 제작 업무를 하며, 나름 안정적인 삶을 살고 있었지만 마음 한 켠에는 해소되지 않은 갈증이 남아 있었습니다.
-          업무가 즐겁진 않았지만  함께 일하는 동기들 그리고 선후배분들과의 합이 너무 좋았고, 안정적이라는 장점 때문에 버틸 수 있었다고 생각합니다.
-          하지만, 10년 뒤의 제 모습을 그려보니 그 삶은 제가 원하고 꿈꾸던 모습이 아니라 판단하였습니다.
-          더 늦기 전에 다시 개발자에 대한 꿈을 키우기 위해 주말과 퇴근 후의 시간을 모두 투자하며 <mark>프론트엔드 개발자</mark>를 준비하고 있습니다.
+          4년의 디자인 전공, 3년의 디자이너 업무. 그리고 29살에 시작한 프론트엔드 개발자 도전.
+>
+          처음 웹이라는 분야에 관심이 생긴 건, 대학교 3학년 웹 디자인에 대해 공부를 하면서입니다. 감각적이면서 사용자를 고려한 UI/UX. 그리고 사용자가 필요로 하는 서비스를 지원하는 기능까지. 너무나도 매력적인 분야라 생각했습니다.
+>
+          첫 코딩으로 반응형 웹 6개월 과정으로 배운 html, css, jquery를 활용한 반응형 웹 디자인입니다.
+>
+          내가 원하고 생각한 대로 구현되는 웹페이지에 큰 재미와 흥미를 느끼며, 웹 디자인/개발자를 꿈꾸며 한 단계씩 성장하고 있었습니다.
+>
+          개발자를 꿈꾸며 공부를 하던 중에 디자이너로 업무를 하게 되었는데 꿈과 현실을 타협하게 되어 잠시 개발 공부를 내려놓게 되었습니다.
+>
+          2년이라는 공백이 생겼지만, 공백 기간이 있었던 만큼 개발에 더 집중하고 열정을 쏟을 수 있게 된 것 같습니다.
+>
+          코리아 it 아카데미 학원에서 프론트엔드 6개월 과정과 SBS 아카데미 반응형 웹 6개월 수업을 수료하였고, 학원 외에도 부족한 부분을 보완하기 위해 인프런, 드림코딩 등의 온라인 강의를 통해 꾸준히 학습하고 있습니다.
+>
+          그리고, 온라인/오프라인 스터디를 진행하며 스터디원들과 개발 지식/노하우/개발 트렌드 등을 나누며
+          간단한 토이 프로젝트나 클론 코딩을 진행하며 <mark>프론트엔드 개발자</mark>로서의 능력을 키워가고 있습니다.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Eland Group
-        caption: 2018 - 2020
+        caption: 2018 - 2021
         sub_title: Contents Design
         quote: >
           Deliver the joy of seeing through a sensuous design.
@@ -150,12 +169,14 @@ content:
           * React JS
           * React Native
           * Typescript
+          * PostCSS
           * Jquery
       - layout: left
         name: Back-end
         title: Back-end
         description: | # this will include new lines to allow paragraphs
           * Node JS
+          * Firebase
       - layout: left
         name: Design
         title: Design
