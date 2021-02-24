@@ -167,7 +167,6 @@ content:
         title: Library
         description: | # this will include new lines to allow paragraphs
           * React JS
-          * React Native
           * Typescript
           * PostCSS
           * Jquery
