@@ -6,3 +6,13 @@
 - [포트폴리오](https://hyungook.github.io/ooks-story/)
 
 - [템플릿](https://github.com/sproogen/modern-resume-theme)
+
+### Push it
+
+- Commit and push the resume template to github
+
+```
+    $ git add --all
+    $ git commit -m "Initial resume setup"
+    $ git push -u origin master
+```
